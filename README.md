@@ -5,7 +5,7 @@ Vectr is a next-gen OSM firmware targeting the OSMv2's accelerometer to seamless
 
 # Branch Information
 
-Vectr-ClickResistant changes the first second of every click, adding a initial 500ms buffer zone that will absorb all those random clicks that can distract from your style.
+Vectr-ClickResistant changes the first second of every click, adding an initial 500ms buffer that will absorb all those random clicks that can distract from your style.
 
 Play operation:
 Clicking the button on the OSM chip for under 500ms will initialize the mode or put the chip to sleep if set to conjure.
